@@ -1,0 +1,5 @@
+package com.aplicativo.de.comida.entities.dao;
+
+public class RestauranteDAO {
+
+}
