@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Diagram class="oracle.dbtools.crest.swingui.relational.DPVRelational" name="Relational_1" id="A6298CA9-3FCC-7E34-859F-BF98557BA971">
+<createdBy>lucca</createdBy>
+<modifiedBy>lucca</modifiedBy>
+<createdTime>2021-10-27 14:38:39 UTC</createdTime>
+<autoRoute>false</autoRoute>
+<boxInbox>true</boxInbox>
+<showLegend>false</showLegend>
+<showLabels>false</showLabels>
+<showRelAttributes>false</showRelAttributes>
+<gridEnabled>false</gridEnabled>
+<showGrid>false</showGrid>
+<diagramColor>-1</diagramColor>
+<display>false</display>
+<notation>1</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.relational.TVTable" oid="E3481CD5-E74B-BA76-F1B9-DB8D76CB6A25" otype="Table" vid="97E6653C-4F2F-6EA0-1DCE-3BBD2A4066B5">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="190" y="111" width="430" height="210"/>
+</OView>
+</objectViews>
+</Diagram>
