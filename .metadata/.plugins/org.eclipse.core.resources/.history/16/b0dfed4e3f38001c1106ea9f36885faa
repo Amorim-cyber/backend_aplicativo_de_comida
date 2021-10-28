@@ -1,0 +1,5 @@
+package com.aplicativo.de.comida.dbConnection;
+
+public class DBManager {
+
+}
