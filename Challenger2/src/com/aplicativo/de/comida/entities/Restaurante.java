@@ -7,7 +7,7 @@ public class Restaurante {
 	private String name;
 	private String rate;
 	private String type;
-	private String range;
+	private Double range;
 	private String time;
 	private String shipment;
 	private String discount;
@@ -16,7 +16,7 @@ public class Restaurante {
 	
 	public Restaurante(Long id, String srcImg,
 			String name, String rate,
-			String type, String range, String time,
+			String type, Double range, String time,
 			String shipment, String discount,
 			String url, String address) {
 		this.id = id;
@@ -62,10 +62,10 @@ public class Restaurante {
 	public void setType(String type) {
 		this.type = type;
 	}
-	public String getRange() {
+	public Double getRange() {
 		return range;
 	}
-	public void setRange(String range) {
+	public void setRange(Double range) {
 		this.range = range;
 	}
 	public String getTime() {

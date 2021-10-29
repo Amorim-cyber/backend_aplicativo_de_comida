@@ -12,10 +12,9 @@ public class Mapper {
 		dao.setId(restaurante.getId());
 		dao.setSrcImg(restaurante.getSrcImg());
 		dao.setName(restaurante.getName());
-		dao.setRate(restaurante.getRate());
+		dao.setRate(restaurante.getName());
 		dao.setType(restaurante.getType());
-		dao.setRange(restaurante.getRange());
-		dao.setTime(restaurante.getTime());
+		dao.setTime(restaurante.getRange());
 		dao.setShipment(restaurante.getShipment());
 		dao.setDiscount(restaurante.getDiscount());
 		dao.setUrl(restaurante.getUrl());

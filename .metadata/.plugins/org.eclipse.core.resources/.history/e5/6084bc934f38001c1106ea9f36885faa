@@ -7,7 +7,7 @@ public class RestauranteDAO {
 	private String name;
 	private String rate;
 	private String type;
-	private Double range;
+	private String range;
 	private String time;
 	private String shipment;
 	private String discount;
@@ -43,10 +43,10 @@ public class RestauranteDAO {
 	public void setType(String type) {
 		this.type = type;
 	}
-	public Double getRange() {
+	public String getRange() {
 		return range;
 	}
-	public void setRange(Double range) {
+	public void setRange(String range) {
 		this.range = range;
 	}
 	public String getTime() {
