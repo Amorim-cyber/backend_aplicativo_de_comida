@@ -76,3 +76,11 @@ public class Service implements InterfaceRestaurante{
 	}
 
 }
+
+
+/* SELECT COUNT(*) "QTD_RESTAURANTE" FROM T_RESTAURANTE WHERE 
+NM_END_ORI = 'Rua Desembarbador Roberto medeiros, 70' AND
+DS_TIPO_REST = 'Pizza' AND
+NR_DIST_REST <= 1 AND 
+(TO_NUMBER(NR_RAT_REST,'9.9') = 5.0 OR
+TO_NUMBER(NR_RAT_REST,'9.9') > 4.5); */
